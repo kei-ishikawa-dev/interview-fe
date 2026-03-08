@@ -1,0 +1,11 @@
+
+{
+  "recommendations": [
+    "ms-ceintl.vscode-language-pack-ja",
+    "dbaeumer.vscode-eslint",
+    "esbenp.prettier-vscode",
+    "christian-kohler.path-intellisense",
+    "bradlc.vscode-tailwindcss",
+    "natqe.reload"
+  ]
+}
